@@ -1,0 +1,75 @@
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.deps.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.runtimeconfig.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.AppServices.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.AppServices.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Domain.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.AssemblyInfo.cs
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company..92E0B66C.Up2Date
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\refint\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.genruntimeconfig.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\ref\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.AssemblyInfo.cs
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.deps.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.runtimeconfig.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.AppServices.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.AppServices.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Domain.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company..92E0B66C.Up2Date
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\refint\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.genruntimeconfig.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\ref\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.deps.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.runtimeconfig.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.CommentDomain.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.AppServices.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.AppServices.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.Domain.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Core.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\bin\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.AssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company..92E0B66C.Up2Date
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\refint\Company.Project.CommentDomain.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\Company.Project.CommentDomain.genruntimeconfig.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Company.Project.CommentDomain\obj\Debug\net8.0\ref\Company.Project.CommentDomain.dll

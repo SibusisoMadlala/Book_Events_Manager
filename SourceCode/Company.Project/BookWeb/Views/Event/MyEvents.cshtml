@@ -1,0 +1,89 @@
+﻿@using AutoMapper
+@using Company.Project.EventDomain.AppServices.Mapper
+@using Company.Project.EventDomain.AppServices
+@using Company.Project.EventDomain.Repository
+@using Company.Project.EventDomain.Data.DBContext
+@using Company.Project.EventDomain.AppServices.DTOs
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@using Company.Project.EventDomain.Domain
+@{
+    ViewData["Title"] = "MyEvents";
+}
+
+<div class="text-center"><h1>MyEvents</h1></div>
+<hr />
+<div class="row text-center">
+    <div class="col">
+        <h2>UpComing Events</h2>
+        <hr />
+        @{
+            var mapperConfig = new MapperConfiguration(mc =>
+            {
+                mc.AddProfile(new EventMappingProfile());
+            });
+            IMapper mapper = mapperConfig.CreateMapper();
+            IEventAppService eventAppService = new EventAppService(new EventRepository(new EventDomainDbContext()), mapper);
+
+            var _events = eventAppService.getMyUpcomingEvents(User.Identity.Name);
+
+            foreach (Event eve in _events)
+            {
+                <div class="row">
+
+                    <div class="col">
+                        <a asp-action="Details" asp-controller="Event" asp-route-id="@eve.Id">@eve.Title </a>
+                        <p>@eve.Date</p>
+                        <p>@eve.Location</p>
+                    </div>
+                    <div class="col">
+                        <a asp-action="Edit" asp-controller="Event" asp-route-id="@eve.Id">edit</a>
+                        <a asp-action="Delete" asp-controller="Event" asp-route-id="@eve.Id">delete</a>
+                    </div>
+                </div>
+                
+               
+                <hr />
+            }
+           
+        }
+    </div>
+
+
+    <div class="col vl ">
+        <h2>Past Events</h2>
+        <hr />
+        @{
+            /*var mapperConfig = new MapperConfiguration(mc =>
+            {
+                mc.AddProfile(new EventMappingProfile());
+            });
+            IMapper mapper = mapperConfig.CreateMapper();
+            IEventAppService eventAppService = new EventAppService(new EventRepository(new EventDomainDbContext()), mapper);*/
+
+            var __events = eventAppService.getMyPastEvents(User.Identity.Name);
+
+            foreach (Event eve in __events)
+            {
+                <div class="row">
+                    <div class="col">
+                        <a asp-action="Details" asp-controller="Event" asp-route-id="@eve.Id">@eve.Title </a>
+                        <p>@eve.Date</p>
+                        <p>@eve.Location</p>
+                    </div>
+                    <div class="col">
+                        <a asp-action="Delete" asp-controller="Event" asp-route-id="@eve.Id">delete</a>
+                    </div>
+                </div>
+
+                
+                <hr />
+            }
+
+        }
+    </div>
+
+
+</div>
+

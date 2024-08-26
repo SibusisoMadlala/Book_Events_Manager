@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Company.Project.Core">
+      <HintPath>..\..\Lib\Foundation\Company.Project.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Company.Project.Core.Data">
+      <HintPath>..\..\Lib\Foundation\Company.Project.Core.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy /y &quot;$(TargetDir)$(TargetFileName)&quot; &quot;$(ProjectDir)\..\..\Lib\Foundation\&quot;" />
+  </Target>
+</Project>

@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+
+@if (!User.IsInRole("admin"))
+{
+    <div class="text-center">
+        <h1 class="display-4">Book Events</h1>
+       
+    </div>
+    <div class="row text-center">
+        <div class="col">
+            <h2>UpComing Events</h2>
+            <hr />
+            <partial name="_UpcomingPrivate" />
+            <partial name="_UpcomingPublicEventsPartial" />
+        </div>
+
+
+        <div class="col vl ">
+            <h2>Past Events</h2>
+            <hr />
+            <partial name="_PastPrivate" />
+            <partial name="_PastPublicEventsPartial" />
+        </div>
+
+
+    </div>
+}
+else
+{
+    <h2>All Events</h2>
+    <hr />
+    <div class="text center">
+        <partial name="_AllEvents" />
+    </div>
+}
+

@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="Moq" Version="4.20.70" />
+    <PackageReference Include="NUnit" Version="3.14.0" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.9.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookWeb\BookWeb.csproj" />
+    <ProjectReference Include="..\Company.Project.CommentDomain\Company.Project.CommentDomain.csproj" />
+    <ProjectReference Include="..\Company.Project.Domain.EventDomain\Company.Project.EventDomain.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core.AppServices\Company.Project.Core.AppServices.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core.Data\Company.Project.Core.Data.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core.Domain\Company.Project.Core.Domain.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core.WebMVC\Company.Project.Core.WebMVC.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core\Company.Project.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="NUnit.Framework" />
+  </ItemGroup>
+
+</Project>

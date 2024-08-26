@@ -1,0 +1,45 @@
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.deps.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.AssemblyInfo.cs
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company..5346CF18.Up2Date
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\refint\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\ref\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.deps.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.AssemblyInfo.cs
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company..5346CF18.Up2Date
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\refint\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\ref\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.deps.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.AssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company..5346CF18.Up2Date
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\refint\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\Company.Project.Core.Data.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.Data\obj\Debug\net8.0\ref\Company.Project.Core.Data.dll

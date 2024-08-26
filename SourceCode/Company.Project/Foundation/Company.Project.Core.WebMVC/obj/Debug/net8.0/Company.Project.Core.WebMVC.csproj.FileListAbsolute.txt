@@ -1,0 +1,48 @@
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.deps.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.ErrorResource.resources
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.GenerateResource.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.AssemblyInfo.cs
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company..29030988.Up2Date
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\refint\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\ref\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.deps.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.ErrorResource.resources
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.GenerateResource.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.AssemblyInfo.cs
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company..29030988.Up2Date
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\refint\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\ref\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.deps.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.ErrorResource.resources
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.GenerateResource.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.AssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company..29030988.Up2Date
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\refint\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Foundation\Company.Project.Core.WebMVC\obj\Debug\net8.0\ref\Company.Project.Core.WebMVC.dll

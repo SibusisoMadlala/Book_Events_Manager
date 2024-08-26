@@ -1,0 +1,105 @@
+﻿@model Company.Project.EventDomain.Domain.Event
+@using AutoMapper
+@using Company.Project.CommentDomain.AppServices.Mapper
+@using Company.Project.CommentDomain.AppServices
+@using Company.Project.CommentDomain.Repository
+@using Company.Project.CommentDomain.Data.DBContext
+@using Company.Project.CommentDomain.AppServices.DTOs
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@using Company.Project.EventDomain.Domain
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div class="row">
+    <div class="col">
+        <h4>Event</h4>
+        <hr />
+        <dl class="row">
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Date)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Date)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Location)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Location)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.StartTime)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.StartTime)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Type)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Type)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.DurationInHours)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.DurationInHours)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.OtherDetails)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.OtherDetails)
+            </dd>
+        </dl>
+    </div>
+    <div class="col" style="overflow:scroll; height:500px;">
+        <h4>Comments</h4>
+        <hr />
+        @{
+            var mapperConfig = new MapperConfiguration(mc =>
+            {
+                mc.AddProfile(new CommentMappingProfile());
+            });
+            IMapper mapper = mapperConfig.CreateMapper();
+            ICommentAppService commentAppService = new CommentAppService(mapper, new CommentRepository(new CommentDbContext()));
+
+
+            var comments = commentAppService.getCommentsByEventId(Model.Id);
+           
+            foreach (CommentDTO comment in comments)
+            {
+                //<a asp-action="Details" asp-controller="Event" asp-route-id="@eve.Id">@eve.Title </a>
+                <p>@comment.UserId</p>
+                <p>@comment.CreatedOnDate</p>
+                <p>@comment.comment</p>
+                <hr />
+            }
+            
+ 
+        }
+        @if (SignInManager.IsSignedIn(User)){<a asp-action="Comments" asp-route-EventId="@Model?.Id">Add Comment</a>}
+       
+    </div>
+</div>
+<div>
+    
+    <a asp-controller="Home" asp-action="Index">Back to List</a>
+</div>

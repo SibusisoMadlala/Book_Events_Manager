@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Company.Project.Core">
+      <HintPath>..\..\Lib\Foundation\Company.Project.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Company.Project.Core.Domain">
+      <HintPath>..\..\Lib\Foundation\Company.Project.Core.Domain.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+  </ItemGroup>
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy /y &quot;$(TargetDir)$(TargetFileName)&quot; &quot;$(ProjectDir)\..\..\Lib\Foundation\&quot;" />
+  </Target>
+</Project>

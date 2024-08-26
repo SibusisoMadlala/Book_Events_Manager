@@ -1,0 +1,51 @@
+﻿@using AutoMapper
+@using Company.Project.EventDomain.AppServices.Mapper
+@using Company.Project.EventDomain.AppServices
+@using Company.Project.EventDomain.Repository
+@using Company.Project.EventDomain.Data.DBContext
+@using Company.Project.EventDomain.AppServices.DTOs
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@using Company.Project.EventDomain.Domain
+@{
+    ViewData["Title"] = "Invites";
+}
+
+<div class="text-center"><h1>Invites</h1></div>
+<div class="row text-center">
+    <div class="col">
+        <hr />
+        @{
+            var mapperConfig = new MapperConfiguration(mc =>
+            {
+                mc.AddProfile(new EventMappingProfile());
+            });
+            IMapper mapper = mapperConfig.CreateMapper();
+            IEventAppService eventAppService = new EventAppService(new EventRepository(new EventDomainDbContext()), mapper);
+
+            var _events = eventAppService.getAllEvents();
+
+            foreach (Event eve in _events)
+            {
+                
+
+                if (eve.Invites != null)
+                {
+                    var invites = eve.Invites.Split(",");
+                    foreach(string inv in invites){
+
+                        if(inv == eve.UserEmailID){
+                            <a asp-action="Details" asp-controller="Event" asp-route-id="@eve.Id">@eve.Title </a>
+                            <p>@eve.Date</p>
+                            <p>@eve.Location</p>
+                            <hr />
+                        }
+                    }
+                }
+            }
+
+        }
+    </div>
+</div>
+

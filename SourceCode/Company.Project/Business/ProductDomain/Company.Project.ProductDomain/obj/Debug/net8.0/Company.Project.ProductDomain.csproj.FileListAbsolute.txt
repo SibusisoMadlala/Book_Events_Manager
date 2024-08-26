@@ -1,0 +1,24 @@
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.AssemblyInfo.cs
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\bin\Debug\net8.0\Company.Project.ProductDomain.deps.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\bin\Debug\net8.0\Company.Project.ProductDomain.runtimeconfig.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\bin\Debug\net8.0\Company.Project.ProductDomain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\bin\Debug\net8.0\Company.Project.ProductDomain.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\bin\Debug\net8.0\Company.Project.Core.AppServices.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company..5A1D4F26.Up2Date
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\refint\Company.Project.ProductDomain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.genruntimeconfig.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\ref\Company.Project.ProductDomain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.AssemblyInfo.cs
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Business\ProductDomain\Company.Project.ProductDomain\obj\Debug\net8.0\Company.Project.ProductDomain.csproj.CoreCompileInputs.cache

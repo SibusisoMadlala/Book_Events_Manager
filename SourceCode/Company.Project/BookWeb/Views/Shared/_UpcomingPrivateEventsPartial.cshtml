@@ -1,0 +1,32 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using AutoMapper
+@using Company.Project.EventDomain.AppServices.Mapper
+@using Company.Project.EventDomain.AppServices
+@using Company.Project.EventDomain.Repository
+@using Company.Project.EventDomain.Data.DBContext
+@using Company.Project.EventDomain.AppServices.DTOs
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    var mapperConfig = new MapperConfiguration(mc =>
+     {
+         mc.AddProfile(new EventMappingProfile());
+     });
+    IMapper mapper = mapperConfig.CreateMapper();
+    IEventAppService eventAppService = new EventAppService(new EventRepository(new EventDomainDbContext()), mapper);
+
+    var operationResult = eventAppService.getUpcomingPrivateEvents();
+    var events = operationResult.Data;
+
+    foreach(EventDTO eventDTO in events)
+    {
+        <a asp-action="Details" asp-controller="Event" asp-route-id="@eventDTO.Id">@eventDTO.Title </a>
+        <p>@eventDTO.Date</p>
+        <p>@eventDTO.Location</p>
+        <hr />
+    }
+}

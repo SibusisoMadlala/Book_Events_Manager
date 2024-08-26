@@ -1,0 +1,1575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D100B2C-25B3-4FDF-A184-3C633F8C89F2}|BookWebTest\\BookWebTest.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookwebtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D100B2C-25B3-4FDF-A184-3C633F8C89F2}|BookWebTest\\BookWebTest.csproj|solutionrelative:bookwebtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\event\\invites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\event\\invites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\mapper\\webmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\mapper\\webmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\models\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\models\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\appservices\\eventappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\appservices\\eventappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243D779C-4126-444D-801B-8B8FD337725E}|Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core.domain\\domain\\domainbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243D779C-4126-444D-801B-8B8FD337725E}|Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj|solutionrelative:foundation\\company.project.core.domain\\domain\\domainbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\domain\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\domain\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\uow\\eventunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\uow\\eventunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC29DD-5A87-42E7-98B3-7CC64CAFDB45}|Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core.data\\dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CC29DD-5A87-42E7-98B3-7CC64CAFDB45}|Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj|solutionrelative:foundation\\company.project.core.data\\dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9322E-4E15-4BEE-B237-25401F8AD5A9}|PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\plugin\\company.project.loggig.nlog\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A9322E-4E15-4BEE-B237-25401F8AD5A9}|PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj|solutionrelative:plugin\\company.project.loggig.nlog\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\domain\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\domain\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Data\\Migrations\\20240625120937_initialCreateEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\bookweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\bookweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\company.project.eventdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\company.project.eventdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\migrations\\20240628084831_removed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\migrations\\20240628084831_removed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\migrations\\20240629093258_initialeeventv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\migrations\\20240629093258_initialeeventv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\event\\myevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\event\\myevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC29DD-5A87-42E7-98B3-7CC64CAFDB45}|Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core.data\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CC29DD-5A87-42E7-98B3-7CC64CAFDB45}|Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj|solutionrelative:foundation\\company.project.core.data\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\appservices\\commentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\appservices\\commentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\appservices\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\appservices\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\event\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\event\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_allevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_allevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_pastprivateeventspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_pastprivateeventspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_loggedinpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_loggedinpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD83787D-7DC1-4A4A-AFB8-85D4FF6AEA5D}|Web\\Company.Project.Web\\Company.Project.Web.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\web\\company.project.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD83787D-7DC1-4A4A-AFB8-85D4FF6AEA5D}|Web\\Company.Project.Web\\Company.Project.Web.csproj|solutionrelative:web\\company.project.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD83787D-7DC1-4A4A-AFB8-85D4FF6AEA5D}|Web\\Company.Project.Web\\Company.Project.Web.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\web\\company.project.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD83787D-7DC1-4A4A-AFB8-85D4FF6AEA5D}|Web\\Company.Project.Web\\Company.Project.Web.csproj|solutionrelative:web\\company.project.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD83787D-7DC1-4A4A-AFB8-85D4FF6AEA5D}|Web\\Company.Project.Web\\Company.Project.Web.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\web\\company.project.web\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD83787D-7DC1-4A4A-AFB8-85D4FF6AEA5D}|Web\\Company.Project.Web\\Company.Project.Web.csproj|solutionrelative:web\\company.project.web\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\appservices\\icommentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\appservices\\icommentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_upcomingprivateeventspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_upcomingprivateeventspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243D779C-4126-444D-801B-8B8FD337725E}|Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core.domain\\domain\\idomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243D779C-4126-444D-801B-8B8FD337725E}|Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj|solutionrelative:foundation\\company.project.core.domain\\domain\\idomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\repository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\repository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\data\\dbcontext\\eventdomaindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\data\\dbcontext\\eventdomaindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\domain\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\domain\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.Comments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\data\\dbcontext\\commentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\data\\dbcontext\\commentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\appservices\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\appservices\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\appservices\\mapper\\eventmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\appservices\\mapper\\eventmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\appservices\\mapper\\commentmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\appservices\\mapper\\commentmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\uow\\commentunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\uow\\commentunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\uow\\icommentunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\uow\\icommentunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\repository\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\repository\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\uow\\ieventunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\uow\\ieventunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (1)\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\configuration\\extensionunitofworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\configuration\\extensionunitofworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC29DD-5A87-42E7-98B3-7CC64CAFDB45}|Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core.data\\company.project.core.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09CC29DD-5A87-42E7-98B3-7CC64CAFDB45}|Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj|solutionrelative:foundation\\company.project.core.data\\company.project.core.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.commentdomain\\migrations\\20240626073319_initialcommentcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3D3A03-B042-49F1-B36D-70BB3FB9C660}|Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj|solutionrelative:company.project.commentdomain\\migrations\\20240626073319_initialcommentcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E2F57-61C2-467F-90C1-5C2ED6F4993C}|Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core.appservices\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6E2F57-61C2-467F-90C1-5C2ED6F4993C}|Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj|solutionrelative:foundation\\company.project.core.appservices\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\AppData\\Local\\Temp\\n4bxjktn..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\AppData\\Local\\Temp\\3hqjjsff..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625113049_changingtoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625112905_changingtoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625095628_addeduserEmailID.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075932_changeUserIdType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075259_ChangingUserIdToStringV2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_upcomingpubliceventspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_upcomingpubliceventspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_pastpubliceventspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_pastpubliceventspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_upcomingprivate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_upcomingprivate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18DFD06-6226-4499-816A-0DF9AA9E9109}|Foundation\\Company.Project.Core\\Company.Project.Core.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core\\valueobjects\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18DFD06-6226-4499-816A-0DF9AA9E9109}|Foundation\\Company.Project.Core\\Company.Project.Core.csproj|solutionrelative:foundation\\company.project.core\\valueobjects\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\views\\shared\\_pastprivate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\views\\shared\\_pastprivate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\.nuget\\packages\\automapper\\13.0.1\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_WebLayer_79076070_6c46_46c3_9e38_50aa10b94ed7/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_WebLayer_79076070_6c46_46c3_9e38_50aa10b94ed7/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18DFD06-6226-4499-816A-0DF9AA9E9109}|Foundation\\Company.Project.Core\\Company.Project.Core.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core\\logging\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18DFD06-6226-4499-816A-0DF9AA9E9109}|Foundation\\Company.Project.Core\\Company.Project.Core.csproj|solutionrelative:foundation\\company.project.core\\logging\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243D779C-4126-444D-801B-8B8FD337725E}|Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core.domain\\company.project.core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{243D779C-4126-444D-801B-8B8FD337725E}|Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj|solutionrelative:foundation\\company.project.core.domain\\company.project.core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18DFD06-6226-4499-816A-0DF9AA9E9109}|Foundation\\Company.Project.Core\\Company.Project.Core.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core\\company.project.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A18DFD06-6226-4499-816A-0DF9AA9E9109}|Foundation\\Company.Project.Core\\Company.Project.Core.csproj|solutionrelative:foundation\\company.project.core\\company.project.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD83787D-7DC1-4A4A-AFB8-85D4FF6AEA5D}|Web\\Company.Project.Web\\Company.Project.Web.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\web\\company.project.web\\company.project.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD83787D-7DC1-4A4A-AFB8-85D4FF6AEA5D}|Web\\Company.Project.Web\\Company.Project.Web.csproj|solutionrelative:web\\company.project.web\\company.project.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\buildTransitive\\net6.0\\Microsoft.Extensions.Options.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18DFD06-6226-4499-816A-0DF9AA9E9109}|Foundation\\Company.Project.Core\\Company.Project.Core.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\foundation\\company.project.core\\valueobjects\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18DFD06-6226-4499-816A-0DF9AA9E9109}|Foundation\\Company.Project.Core\\Company.Project.Core.csproj|solutionrelative:foundation\\company.project.core\\valueobjects\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240623095837_initialEventCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\DBContext\\EventDomainDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Domain\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\20240625120937_initialCreateEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\data\\migrations\\20240629093156_initialuserv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\data\\migrations\\20240629093156_initialuserv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\bookweb\\data\\migrations\\20240629092949_initialuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8915611-24F2-4252-BFDA-7F1BFC15C638}|BookWeb\\BookWeb.csproj|solutionrelative:bookweb\\data\\migrations\\20240629092949_initialuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|c:\\users\\sibusisomadlala\\3213854\\mvc\\sourcecode\\company.project\\company.project.domain.eventdomain\\migrations\\20240701075832_changedtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B96FD03-3D20-445D-9253-12DFB673A4FE}|Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj|solutionrelative:company.project.domain.eventdomain\\migrations\\20240701075832_changedtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Events [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "dbo.Events [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T06:21:08.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Event\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T19:37:35.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BookWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\appsettings.json",
+              "RelativeToolTip": "BookWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T14:44:20.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Program.cs",
+              "RelativeToolTip": "BookWeb\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwCMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:55:29.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Controllers\\EventController.cs",
+              "RelativeToolTip": "BookWeb\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwGwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:40:32.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookWeb\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:10:45.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T08:55:08.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T09:42:32.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Event\\Details.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:59:05.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invites.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Invites.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Event\\Invites.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Invites.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Event\\Invites.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:03:05.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Properties\\serviceDependencies.local.json",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Properties\\serviceDependencies.local.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T09:42:35.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BookWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:37:00.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Mapper\\WebMappingProfile.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Mapper\\WebMappingProfile.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Mapper\\WebMappingProfile.cs",
+              "RelativeToolTip": "BookWeb\\Mapper\\WebMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:16:48.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Models\\EventViewModel.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Models\\EventViewModel.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Models\\EventViewModel.cs",
+              "RelativeToolTip": "BookWeb\\Models\\EventViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:37:15.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DomainBase.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Domain\\DomainBase.cs",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core.Domain\\Domain\\DomainBase.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Domain\\DomainBase.cs",
+              "RelativeToolTip": "Foundation\\Company.Project.Core.Domain\\Domain\\DomainBase.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAUwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:19:43.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventAppService.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\AppServices\\EventAppService.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\AppServices\\EventAppService.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\AppServices\\EventAppService.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\AppServices\\EventAppService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wF4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:23:31.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWebTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BookWebTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWebTest\\UnitTest1.cs",
+              "RelativeToolTip": "BookWebTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:34:59.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs",
+              "RelativeToolTip": "Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAApwIoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:38:02.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240625120937_initialCreateEvent.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Data\\Migrations\\20240625120937_initialCreateEvent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Data\\Migrations\\20240625120937_initialCreateEvent.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Data\\Migrations\\20240625120937_initialCreateEvent.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Data\\Migrations\\20240625120937_initialCreateEvent.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:12:26.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventUnitOfWorks.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\UoW\\EventUnitOfWorks.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\UoW\\EventUnitOfWorks.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\UoW\\EventUnitOfWorks.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\UoW\\EventUnitOfWorks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:15:37.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Domain\\Event.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Domain\\Event.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Domain\\Event.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Domain\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:43:07.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Repository\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Repository\\EventRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:14:18.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Logger.cs",
+              "RelativeDocumentMoniker": "PlugIn\\Company.Project.Loggig.NLog\\Logger.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Logger.cs",
+              "RelativeToolTip": "PlugIn\\Company.Project.Loggig.NLog\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:40:24.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Domain\\Type.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Domain\\Type.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Domain\\Type.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Domain\\Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:38:25.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20240701075832_ChangedType.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240701075832_ChangedType.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Migrations\\20240701075832_ChangedType.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240701075832_ChangedType.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Migrations\\20240701075832_ChangedType.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:58:32.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20240625120937_initialCreateEvent.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\20240625120937_initialCreateEvent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\20240625120937_initialCreateEvent.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\20240625120937_initialCreateEvent.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\20240625120937_initialCreateEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:10:09.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Domain\\Event.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Domain\\Event.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Domain\\Event.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\Domain\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:10:34.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "EventDomainDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\DBContext\\EventDomainDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\DBContext\\EventDomainDbContext.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\DBContext\\EventDomainDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Nagarro\\Documents\\Company.Project (2)\\Company.Project\\BookWeb\\DBContext\\EventDomainDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:10:56.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Company.Project.EventDomain.csproj",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T09:14:33.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\BookWeb.csproj",
+              "RelativeDocumentMoniker": "BookWeb\\BookWeb.csproj",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\BookWeb.csproj",
+              "RelativeToolTip": "BookWeb\\BookWeb.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T06:50:57.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240629093258_initialeEventv2.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240629093258_initialeEventv2.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Migrations\\20240629093258_initialeEventv2.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240629093258_initialeEventv2.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Migrations\\20240629093258_initialeEventv2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:32:58.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20240629093156_initialUserv2.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Data\\Migrations\\20240629093156_initialUserv2.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Data\\Migrations\\20240629093156_initialUserv2.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Data\\Migrations\\20240629093156_initialUserv2.cs",
+              "RelativeToolTip": "BookWeb\\Data\\Migrations\\20240629093156_initialUserv2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:31:56.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20240629092949_initialUser.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Data\\Migrations\\20240629092949_initialUser.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Data\\Migrations\\20240629092949_initialUser.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Data\\Migrations\\20240629092949_initialUser.cs",
+              "RelativeToolTip": "BookWeb\\Data\\Migrations\\20240629092949_initialUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:29:49.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T14:37:10.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240628084831_removed.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240628084831_removed.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Migrations\\20240628084831_removed.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240628084831_removed.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Migrations\\20240628084831_removed.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:48:31.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\MyEvents.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Event\\MyEvents.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\MyEvents.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Event\\MyEvents.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T08:08:00.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CommentAppService.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\AppServices\\CommentAppService.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\AppServices\\CommentAppService.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\AppServices\\CommentAppService.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\AppServices\\CommentAppService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:53:48.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\AppServices\\DTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\AppServices\\DTOs\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\AppServices\\DTOs\\CommentDTO.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\AppServices\\DTOs\\CommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:44:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\IRepository.cs",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core.Data\\DataAccess\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\IRepository.cs",
+              "RelativeToolTip": "Foundation\\Company.Project.Core.Data\\DataAccess\\IRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:28:46.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Comments.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Comments.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Event\\Comments.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Event\\Comments.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Event\\Comments.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T12:31:24.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_PastPrivateEventsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_PastPrivateEventsPartial.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_PastPrivateEventsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_PastPrivateEventsPartial.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_PastPrivateEventsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:40:52.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:25:52.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T08:22:34.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_AllEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_AllEvents.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_AllEvents.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_AllEvents.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_AllEvents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T07:56:28.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_LoggedInPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_LoggedInPartial.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_LoggedInPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_LoggedInPartial.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_LoggedInPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T07:56:36.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-28T13:19:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T06:19:07.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Web\\Company.Project.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Company.Project.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Web\\Company.Project.Web\\Program.cs",
+              "RelativeToolTip": "Web\\Company.Project.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:27:42.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Web\\Company.Project.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "Web\\Company.Project.Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Web\\Company.Project.Web\\Startup.cs",
+              "RelativeToolTip": "Web\\Company.Project.Web\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:23:58.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-28T12:20:51.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Web\\Company.Project.Web\\nlog.config",
+              "RelativeDocumentMoniker": "Web\\Company.Project.Web\\nlog.config",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Web\\Company.Project.Web\\nlog.config",
+              "RelativeToolTip": "Web\\Company.Project.Web\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-28T11:38:44.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ICommentAppService.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\AppServices\\ICommentAppService.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\AppServices\\ICommentAppService.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\AppServices\\ICommentAppService.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\AppServices\\ICommentAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:14:47.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T10:54:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_UpcomingPrivateEventsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_UpcomingPrivateEventsPartial.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_UpcomingPrivateEventsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_UpcomingPrivateEventsPartial.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_UpcomingPrivateEventsPartial.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:39:22.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IDomain.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Domain\\IDomain.cs",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core.Domain\\Domain\\IDomain.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Domain\\IDomain.cs",
+              "RelativeToolTip": "Foundation\\Company.Project.Core.Domain\\Domain\\IDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:16:42.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\Repository\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:43:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BookWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BookWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T07:14:37.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Repository\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\Repository\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Repository\\ICommentRepository.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\Repository\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:18:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EventDomainDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Data\\DBContext\\EventDomainDbContext.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Data\\DBContext\\EventDomainDbContext.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Data\\DBContext\\EventDomainDbContext.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Data\\DBContext\\EventDomainDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:30:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Domain\\Comment.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\Domain\\Comment.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Domain\\Comment.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\Domain\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:45:05.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "dbo.Comments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.Comments.sql",
+              "ToolTip": "dbo.Comments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-26T12:48:00.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EventMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\AppServices\\Mapper\\EventMappingProfile.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\AppServices\\Mapper\\EventMappingProfile.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\AppServices\\Mapper\\EventMappingProfile.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\AppServices\\Mapper\\EventMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:23:29.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CommentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Data\\DBContext\\CommentDbContext.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\Data\\DBContext\\CommentDbContext.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Data\\DBContext\\CommentDbContext.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\Data\\DBContext\\CommentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:35:31.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\AppServices\\DTOs\\EventDTO.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\AppServices\\DTOs\\EventDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\AppServices\\DTOs\\EventDTO.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\AppServices\\DTOs\\EventDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:23:27.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CommentMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\AppServices\\Mapper\\CommentMappingProfile.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\AppServices\\Mapper\\CommentMappingProfile.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\AppServices\\Mapper\\CommentMappingProfile.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\AppServices\\Mapper\\CommentMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:29:21.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CommentUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\UoW\\CommentUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\UoW\\CommentUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\UoW\\CommentUnitOfWork.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\UoW\\CommentUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:02:32.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ICommentUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\UoW\\ICommentUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\UoW\\ICommentUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\UoW\\ICommentUnitOfWork.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\UoW\\ICommentUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:02:30.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Repository\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Repository\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Repository\\IEventRepository.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Repository\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:18:50.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IEventUnitOfWorks.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\UoW\\IEventUnitOfWorks.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\UoW\\IEventUnitOfWorks.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\UoW\\IEventUnitOfWorks.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\UoW\\IEventUnitOfWorks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:14:50.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (1)\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Company.Project (1)\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (1)\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Company.Project (1)\\Company.Project\\Foundation\\Company.Project.Core.Data\\DataAccess\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:00:37.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ExtensionUnitOfWorkService.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Configuration\\ExtensionUnitOfWorkService.cs",
+              "RelativeDocumentMoniker": "Company.Project.Domain.EventDomain\\Configuration\\ExtensionUnitOfWorkService.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Configuration\\ExtensionUnitOfWorkService.cs",
+              "RelativeToolTip": "Company.Project.Domain.EventDomain\\Configuration\\ExtensionUnitOfWorkService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:43:12.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Company.Project.Core.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj",
+              "RelativeToolTip": "Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T15:19:42.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240626073319_initialCommentCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Migrations\\20240626073319_initialCommentCreate.cs",
+              "RelativeDocumentMoniker": "Company.Project.CommentDomain\\Migrations\\20240626073319_initialCommentCreate.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Migrations\\20240626073319_initialCommentCreate.cs",
+              "RelativeToolTip": "Company.Project.CommentDomain\\Migrations\\20240626073319_initialCommentCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:33:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "BookWeb\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "BookWeb\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAQwJQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:11:13.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DtoBase.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\DtoBase.cs",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core.AppServices\\DtoBase.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\DtoBase.cs",
+              "RelativeToolTip": "Foundation\\Company.Project.Core.AppServices\\DtoBase.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:25:29.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20240623095837_initialEventCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240623095837_initialEventCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240623095837_initialEventCreate.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240623095837_initialEventCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240623095837_initialEventCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:10:05.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\AppData\\Local\\Temp\\3hqjjsff..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\3hqjjsff..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-25T11:50:16.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\AppData\\Local\\Temp\\n4bxjktn..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\n4bxjktn..sql",
+              "ToolTip": "SQLQuery2.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-25T11:50:28.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240625112905_changingtoint.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625112905_changingtoint.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625112905_changingtoint.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625112905_changingtoint.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625112905_changingtoint.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:29:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240625113049_changingtoint.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625113049_changingtoint.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625113049_changingtoint.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625113049_changingtoint.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625113049_changingtoint.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:30:50.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240625095628_addeduserEmailID.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625095628_addeduserEmailID.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625095628_addeduserEmailID.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625095628_addeduserEmailID.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625095628_addeduserEmailID.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:56:28.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "dbo.__EFMigrationsHistory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BookWeb_8a78703a_efcc_4e69_824a_d9fccc8bcd95/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "dbo.__EFMigrationsHistory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-25T08:00:59.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240625075932_changeUserIdType.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075932_changeUserIdType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075932_changeUserIdType.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075932_changeUserIdType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075932_changeUserIdType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:59:33.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240625075259_ChangingUserIdToStringV2.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075259_ChangingUserIdToStringV2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075259_ChangingUserIdToStringV2.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075259_ChangingUserIdToStringV2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Company.Project (2)\\Company.Project\\Company.Project.Domain.EventDomain\\Migrations\\20240625075259_ChangingUserIdToStringV2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:52:59.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "_UpcomingPublicEventsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_UpcomingPublicEventsPartial.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_UpcomingPublicEventsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_UpcomingPublicEventsPartial.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_UpcomingPublicEventsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:38:07.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "_PastPublicEventsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_PastPublicEventsPartial.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_PastPublicEventsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_PastPublicEventsPartial.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_PastPublicEventsPartial.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:40:15.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "_UpcomingPrivate.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_UpcomingPrivate.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_UpcomingPrivate.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_UpcomingPrivate.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_UpcomingPrivate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:36:23.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\ValueObjects\\OperationResult.cs",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core\\ValueObjects\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\ValueObjects\\OperationResult.cs",
+              "RelativeToolTip": "Foundation\\Company.Project.Core\\ValueObjects\\OperationResult.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAewGcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:42:55.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "_PastPrivate.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_PastPrivate.cshtml",
+              "RelativeDocumentMoniker": "BookWeb\\Views\\Shared\\_PastPrivate.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\Views\\Shared\\_PastPrivate.cshtml",
+              "RelativeToolTip": "BookWeb\\Views\\Shared\\_PastPrivate.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:41:55.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\automapper\\13.0.1\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\automapper\\13.0.1\\README.md",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\automapper\\13.0.1\\README.md",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\automapper\\13.0.1\\README.md",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-24T08:19:17.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "dbo.Events [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_WebLayer_79076070_6c46_46c3_9e38_50aa10b94ed7/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "dbo.Events [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-23T20:33:23.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_WebLayer_79076070_6c46_46c3_9e38_50aa10b94ed7/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T06:19:21.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Logging\\ILogger.cs",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core\\Logging\\ILogger.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Logging\\ILogger.cs",
+              "RelativeToolTip": "Foundation\\Company.Project.Core\\Logging\\ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:25:40.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Company.Project.Core.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj",
+              "RelativeToolTip": "Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T17:39:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Company.Project.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core\\Company.Project.Core.csproj",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj",
+              "RelativeToolTip": "Foundation\\Company.Project.Core\\Company.Project.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T17:36:29.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Company.Project.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Web\\Company.Project.Web\\Company.Project.Web.csproj",
+              "RelativeDocumentMoniker": "Web\\Company.Project.Web\\Company.Project.Web.csproj",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Web\\Company.Project.Web\\Company.Project.Web.csproj",
+              "RelativeToolTip": "Web\\Company.Project.Web\\Company.Project.Web.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T15:14:25.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Microsoft.Extensions.Options.targets",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\buildTransitive\\net6.0\\Microsoft.Extensions.Options.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\buildTransitive\\net6.0\\Microsoft.Extensions.Options.targets",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\buildTransitive\\net6.0\\Microsoft.Extensions.Options.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\buildTransitive\\net6.0\\Microsoft.Extensions.Options.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-23T17:23:44.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\ValueObjects\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Foundation\\Company.Project.Core\\ValueObjects\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\ValueObjects\\ValueObject.cs",
+              "RelativeToolTip": "Foundation\\Company.Project.Core\\ValueObjects\\ValueObject.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:43:01.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

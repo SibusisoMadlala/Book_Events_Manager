@@ -1,0 +1,462 @@
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\nlog.config
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.staticwebassets.runtime.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.exe
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.deps.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.runtimeconfig.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.AppServices.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.ProductDomain.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.AssemblyInfo.cs
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.RazorAssemblyInfo.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.RazorAssemblyInfo.cs
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.Company.Project.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Company.Project.Web.props
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Company.Project.Web.props
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Company.Project.Web.props
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\scopedcss\bundle\Company.Project.Web.styles.css
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company..CACE6FE8.Up2Date
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\refint\Company.Project.Web.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.genruntimeconfig.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\ref\Company.Project.Web.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\nlog.config
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.staticwebassets.runtime.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.exe
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.deps.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.runtimeconfig.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.AppServices.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.ProductDomain.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.AssemblyInfo.cs
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.RazorAssemblyInfo.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.RazorAssemblyInfo.cs
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.Company.Project.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Company.Project.Web.props
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Company.Project.Web.props
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Company.Project.Web.props
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\scopedcss\bundle\Company.Project.Web.styles.css
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company..CACE6FE8.Up2Date
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\refint\Company.Project.Web.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.genruntimeconfig.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\ref\Company.Project.Web.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\nlog.config
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.staticwebassets.runtime.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.exe
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.deps.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.runtimeconfig.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Web.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.AppServices.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.Data.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.Domain.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.WebMVC.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.ProductDomain.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\bin\Debug\net8.0\Company.Project.Core.WebMVC.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.AssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.RazorAssemblyInfo.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.RazorAssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.Company.Project.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Company.Project.Web.props
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Company.Project.Web.props
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Company.Project.Web.props
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\scopedcss\bundle\Company.Project.Web.styles.css
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company..CACE6FE8.Up2Date
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\refint\Company.Project.Web.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\Company.Project.Web.genruntimeconfig.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\Web\Company.Project.Web\obj\Debug\net8.0\ref\Company.Project.Web.dll

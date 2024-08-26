@@ -1,0 +1,849 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWebTest\\BookWebTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWebTest\\BookWebTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWebTest\\BookWebTest.csproj",
+        "projectName": "BookWebTest",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWebTest\\BookWebTest.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWebTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\BookWeb.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\BookWeb.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.WebMVC\\Company.Project.Core.WebMVC.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.WebMVC\\Company.Project.Core.WebMVC.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\BookWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\BookWeb.csproj",
+        "projectName": "BookWeb",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\BookWeb.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\BookWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.WebMVC\\Company.Project.Core.WebMVC.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.WebMVC\\Company.Project.Core.WebMVC.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj",
+        "projectName": "Company.Project.CommentDomain",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\Company.Project.CommentDomain.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.CommentDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj",
+        "projectName": "Company.Project.EventDomain",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\Company.Project.EventDomain.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Company.Project.Domain.EventDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj"
+              },
+              "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj": {
+                "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj",
+        "projectName": "Company.Project.Core.AppServices",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\Company.Project.Core.AppServices.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.AppServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj",
+        "projectName": "Company.Project.Core.Data",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\Company.Project.Core.Data.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj",
+        "projectName": "Company.Project.Core.Domain",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\Company.Project.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.WebMVC\\Company.Project.Core.WebMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.WebMVC\\Company.Project.Core.WebMVC.csproj",
+        "projectName": "Company.Project.Core.WebMVC",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.WebMVC\\Company.Project.Core.WebMVC.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core.WebMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj",
+        "projectName": "Company.Project.Core",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\Company.Project.Core.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\Foundation\\Company.Project.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj",
+        "projectName": "Company.Project.Loggig.NLog",
+        "projectPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\Company.Project.Loggig.NLog.csproj",
+        "packagesPath": "C:\\Users\\sibusisomadlala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sibusisomadlala\\3213854\\MVC\\SourceCode\\Company.Project\\PlugIn\\Company.Project.Loggig.NLog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sibusisomadlala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

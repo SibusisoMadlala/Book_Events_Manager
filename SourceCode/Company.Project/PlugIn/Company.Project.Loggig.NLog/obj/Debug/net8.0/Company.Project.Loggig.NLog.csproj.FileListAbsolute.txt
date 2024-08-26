@@ -1,0 +1,42 @@
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.deps.json
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.AssemblyInfo.cs
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company..D6F408A9.Up2Date
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\refint\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\Downloads\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\ref\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.deps.json
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.AssemblyInfo.cs
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company..D6F408A9.Up2Date
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\refint\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\OneDrive - Nagarro\Documents\Company.Project (2)\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\ref\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.deps.json
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\net8.0\Company.Project.Core.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.AssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company..D6F408A9.Up2Date
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\refint\Company.Project.Loggig.NLog.dll
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\Company.Project.Loggig.NLog.pdb
+C:\Users\sibusisomadlala\3213854\MVC\SourceCode\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\net8.0\ref\Company.Project.Loggig.NLog.dll

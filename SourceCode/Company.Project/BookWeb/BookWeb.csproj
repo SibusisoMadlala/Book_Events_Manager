@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-BookWeb-8a78703a-efcc-4e69-824a-d9fccc8bcd95</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Project.CommentDomain\Company.Project.CommentDomain.csproj" />
+    <ProjectReference Include="..\Company.Project.Domain.EventDomain\Company.Project.EventDomain.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core.AppServices\Company.Project.Core.AppServices.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core.Data\Company.Project.Core.Data.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core.Domain\Company.Project.Core.Domain.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core.WebMVC\Company.Project.Core.WebMVC.csproj" />
+    <ProjectReference Include="..\Foundation\Company.Project.Core\Company.Project.Core.csproj" />
+    <ProjectReference Include="..\PlugIn\Company.Project.Loggig.NLog\Company.Project.Loggig.NLog.csproj" />
+  </ItemGroup>
+
+</Project>

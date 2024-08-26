@@ -1,0 +1,14 @@
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\bin\Debug\net8.0\EventDomain.deps.json
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\bin\Debug\net8.0\EventDomain.dll
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\bin\Debug\net8.0\EventDomain.pdb
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\EventDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\EventDomain.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\EventDomain.AssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\EventDomain.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\EventDomain.dll
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\refint\EventDomain.dll
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\EventDomain.pdb
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\ref\EventDomain.dll
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\EventDomain.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\bin\Debug\net8.0\EventDomain.runtimeconfig.json
+C:\Users\sibusisomadlala\3213854\BookEvents\EventDomain\obj\Debug\net8.0\EventDomain.genruntimeconfig.cache
